@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi I'm Daniel!
 
+### About
+I'm a 17 year old aspiring developer that wants to study computer science and machine learning. I have a strong passion for learning about math and algorithms. 
 <!--
 **dmace27/dmace27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
