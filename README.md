@@ -1,7 +1,7 @@
 ## Hi I'm Daniel!
 
 ### About
-I'm an 18 year old aspiring developer that wants to study computer science and machine learning. I have a strong passion for learning about math and algorithms. 
+I'm 18 years old studying Computer Science at the University of Waterloo ('31). I enjoy learning about math, machine learning, algorthims, and computer science as a whole!
 <!--
 **dmace27/dmace27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
