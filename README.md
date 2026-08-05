@@ -3,6 +3,7 @@
 ### About
 - 18 years old
 - cs @ uwaterloo
+- undergraduate research @ penn state
 - neovim enjoyer
 - interested in AI/ML and embedded systems
 <!--
