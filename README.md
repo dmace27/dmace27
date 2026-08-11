@@ -5,7 +5,6 @@
 - cs @ uwaterloo
 - research @ penn state
 - neovim enjoyer
-- interested in AI/ML and embedded systems
 <!--
 **dmace27/dmace27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
