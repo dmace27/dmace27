@@ -1,6 +1,4 @@
-## Hi I'm Daniel!
 
-### About
 - 18 years old
 - cs @ uwaterloo
 - research @ penn state
