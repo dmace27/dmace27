@@ -2,7 +2,6 @@
 - 18 years old
 - cs @ uwaterloo
 - research @ penn state
-- neovim enjoyer
 <!--
 **dmace27/dmace27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
